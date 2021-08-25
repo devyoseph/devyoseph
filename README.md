@@ -2,7 +2,7 @@
 
 🛠  Learning Skills
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python">
-<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java">
 
 <!--
 **devyoseph/devyoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
