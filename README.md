@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 <!--
 **devyoseph/devyoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
