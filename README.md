@@ -1,5 +1,8 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+👋 풀스택 개발자를 꿈꾸는 Joseph Yang 입니다. 😄 
+
+🛠  Learning Skills
+https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
+<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white">
 
 <!--
 **devyoseph/devyoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
