@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=splice&color=f7ecd8&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=f7ecd8&height=300&section=header&text=capsule%20render&fontSize=90" />
 👋 풀스택 개발자를 꿈꾸는 Joseph Yang 입니다. 😄 
 
 🛠  Learning Skills
