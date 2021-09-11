@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=Git">
 
 🌱 I’m currently learning java and python.
+
 🤔 I’m looking for help with ssafy.
 </div>
 <img src="https://capsule-render.vercel.app/api?type=slice&color=f7ecd8&height=300&section=footer&text=&fontSize=90" />
