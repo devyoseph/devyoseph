@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java">
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript">
 <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=Git">
-<img src="https://img.shields.io/badge/-Html-000000?style=flat&logo=Html">
+
 - 🌱 I’m currently learning java and python.
 - 🤔 I’m looking for help with ssafy.
 
