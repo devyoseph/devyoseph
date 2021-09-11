@@ -13,4 +13,4 @@
 
 🤔 I’m looking for help with ssafy.
 </div>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=f7ecd8&height=160&section=footer&text=&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f7ecd8&height=180&section=footer&text=&fontSize=90" />
