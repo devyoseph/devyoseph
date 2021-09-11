@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=f7ecd8&height=180&section=header&text=devyoseph&animation=twinkling&fontSize=70&fontAlignY=23&fontColor=5a3327"/>
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=f7ecd8&height=180&section=header&text=devyoseph&animation=twinkling&fontSize=70&fontAlignY=45&fontColor=5a3327"/>
 
 <div align="center">
 👋 풀스택 개발자를 꿈꾸는 Joseph Yang 입니다. 😄 
