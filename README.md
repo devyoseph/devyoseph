@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#000000&height=300&section=header&text=devyoseph%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode&height=300&section=header&text=capsule%20render&fontSize=90)
 👋 풀스택 개발자를 꿈꾸는 Joseph Yang 입니다. 😄 
 
 🛠  Learning Skills
