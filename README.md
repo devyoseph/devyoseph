@@ -13,4 +13,4 @@
 
 Thank You!!
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=f7ecd8&height=300&section=footer&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=f7ecd8&height=300&section=footer&text=&fontSize=90" />
