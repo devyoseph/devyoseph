@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=f7ecd8&height=300&section=header&text=devyoseph&animation=twinkling&fontSize=90&fontColor=5a3327"/>
 
-
+<div align="center">
 👋 풀스택 개발자를 꿈꾸는 Joseph Yang 입니다. 😄 
 
 🛠  Learning Skills
@@ -12,6 +12,5 @@
 - 🌱 I’m currently learning java and python.
 - 🤔 I’m looking for help with ssafy.
 
-Thank You!!
-
+</div>
 <img src="https://capsule-render.vercel.app/api?type=slice&color=f7ecd8&height=300&section=footer&text=&fontSize=90" />
