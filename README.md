@@ -4,6 +4,7 @@
 👋 풀스택 개발자를 꿈꾸는 Joseph Yang 입니다. 😄 
  
 Learning...
+ <img src="https://postfiles.pstatic.net/MjAyMTExMTNfODAg/MDAxNjM2Nzg0NDI5OTc3.uf9dTA6paKwHVY1o5Oz9DtOdGzngBWSzssADf5pZdgMg.EN5uzLwiXrTTIlAbSg1HeFTFs-OdvpnF6S-Xv_YyYDYg.GIF.josephdev123/%EB%B0%B0%EA%B2%BD5.gif?type=w966">
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python">
 <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java">
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript">
