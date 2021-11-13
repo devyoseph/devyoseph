@@ -1,16 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=f7ecd8&height=170&section=header&text=devyoseph&animation=twinkling&fontSize=70&fontAlignY=45&fontColor=5a3327"/>
+<img src="https://postfiles.pstatic.net/MjAyMTExMTNfMTc1/MDAxNjM2NzkyNzEzNTcy.iOaT78OJuUIPFBSjqfnQVlRuprFy3Fh4Fg3Lkkkenswg.fti4A9aMjMxstvK1NPHCyOaBZKICXMvzJL1CehrnhQAg.GIF.josephdev123/%EA%B9%83%ED%97%88%EB%B8%8C%ED%83%80%EC%9D%B4%ED%8B%80.gif?type=w966"/>
 
-<div align="center">
-👋 풀스택 개발자를 꿈꾸는 Joseph Yang 입니다. 😄 
- 
-Learning...
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python">
-<img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java">
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript">
-<img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=Git">
 
-🌱 I’m currently learning java and python.
+<img src="https://postfiles.pstatic.net/MjAyMTExMTNfNDcg/MDAxNjM2NzkzMjIxNjIx.Q7cjb16wtMpyv6z44DIfnOO1w7vU9FkCwLeCNe-Gp1Ig.sUov2_qHN8OYQV7ogyaq5bmH7LCZQJOQrfhKgUSb4KEg.JPEG.josephdev123/%EC%96%B8%EC%96%B4.jpg?type=w966">
 
-🤔 I’m looking for help with ssafy.
-</div>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=f7ecd8&height=120&section=footer&text=&fontSize=90" />
+<img src="https://postfiles.pstatic.net/MjAyMTExMTNfNDYg/MDAxNjM2NzkzMjI5NjE0.VgbeH2ILfKSYHZCQZ43Jehqpop6JR0cECqLc2lIp-pEg.6_8okVKiGE2vUfOtdS0CX1PxKWWY_scR1A6skK08qawg.JPEG.josephdev123/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A7%81%ED%81%AC.jpg?type=w966">
+
+<img src="https://postfiles.pstatic.net/MjAyMTExMTNfMjMg/MDAxNjM2NzkzMjM4Nzc5.I8iNhWkb8IIGUHyf5Nntx4uBPXJ4-5TT8Ryinz4nSSMg.TCX8jjU-ipuTpvv_cY5pcVWFuaHLy1Q-7bI5BtrxZ0Eg.JPEG.josephdev123/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A7%81%ED%81%AC1.jpg?type=w966" />
+<img src="https://postfiles.pstatic.net/MjAyMTExMTNfMjI2/MDAxNjM2NzkzMjM4Nzgy.GrtJ_jnlLr_H3PIQeQhtqpdl7Q3NKZP54kVh0XyAuGgg.gaQU8vQNFKfS5q0X-_Ir_m4d7kJ0DVIi91bzOcPW_e0g.JPEG.josephdev123/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A7%81%ED%81%AC2.jpg?type=w966" />
+
