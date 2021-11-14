@@ -21,5 +21,4 @@
 </br>
 
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=josephdev">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=devyoseph" height="165">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=josephdev"><img align='right' src="https://github-readme-stats.vercel.app/api?username=devyoseph" height="165">
