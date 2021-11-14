@@ -14,6 +14,12 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
 
+</br>
+
+#### Toy Project
+  
+<a href="https://devyoseph.github.io/2021/11/14/style-guide/"><img src="https://img.shields.io/badge/Project_01-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
+
 </div>
 
 </br>
