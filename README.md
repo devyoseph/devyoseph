@@ -1,9 +1,14 @@
 ![title](./img/title.gif)
 <div align="center">
  
-## blog
+## 📙blog  
+ 
+<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TISTORY-d95d32?style=for-the-badge&logo=Kakao&logoColor=white"/></a>  
   
-  
+</br>
+</br>
+
 ## 🏄🏻‍♂️language
   
   
