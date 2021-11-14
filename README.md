@@ -1,6 +1,10 @@
 ![title](./img/title.gif)
 <div align="center">
-💻Stack
+ 
+## blog
+  
+  
+## 🏄🏻‍♂️language
   
   
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
@@ -9,5 +13,6 @@
 </div>
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=devyoseph" height="165">
-[![Solved.ac.josephdev](http://mazassumnida.wtf/api/v2/generate_badge?boj=josephdev)](https://solved.ac/josephdev)
+
+[![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=josephdev)](https://solved.ac/josephdev)
 
