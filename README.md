@@ -1,21 +1,21 @@
 ![title](./img/title.gif)
 <div align="center">
  
-## 📙blog  
+### 📙blog  
  
 <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TISTORY-d95d32?style=for-the-badge&logo=Kakao&logoColor=white"/></a>  
   
 </br>
-</br>
 
-## 🏄🏻‍♂️language
-  
+### 🏄🏻‍♂️language
   
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
 
 </div>
+
+</br>
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=devyoseph" height="165">
 
