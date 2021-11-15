@@ -20,15 +20,8 @@
   
 <a href="https://devyoseph.github.io/2021/11/14/style-guide/"><img src="https://img.shields.io/badge/Project_01-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 
-</br>
-
-#### Experience
-
-<a href="https://devyoseph.tistory.com/category/Experience"><img src="https://img.shields.io/badge/Experience-090e8a?style=for-the-badge&t"/></a>
-
 </div>
 
-</br>
 </br>
 </br>
 
