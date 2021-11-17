@@ -18,7 +18,7 @@
 
 #### Toy Project
   
-<a href="https://devyoseph.github.io/start.html/"><img src="https://img.shields.io/badge/Project_01-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
+<a href="https://devyoseph.github.io/start.html"><img src="https://img.shields.io/badge/Project_01-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 
 </div>
 
