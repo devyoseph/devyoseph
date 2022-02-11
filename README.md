@@ -24,12 +24,9 @@
 
 </br>
 </br>
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=josephdev">
 
-           
-               
-<p align="right">
-  <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=devyoseph&theme=DeepOcean-mini"/>
-  </a>
-</p>
+ <div align="center">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=josephdev">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyoseph&layout=compact&theme=gruvbox)
+</div>
