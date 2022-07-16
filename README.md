@@ -34,6 +34,6 @@
 </br>
 
 <div align="center">
- <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=josephdev">
- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyoseph&layout=compact&theme=gruvbox">
+ <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=josephdev">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyoseph&layout=compact&theme=gruvbox">
 </div>
