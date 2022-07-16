@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=270&section=header&text=Devjo&fontSize=80&fontColor=71af45&animation=fadeIn&desc=🍄better%20than%20yesterday&descAlignY=77&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=270&section=header&text=Devjo&fontSize=80&fontColor=71af45&animation=fadeIn&desc=🍄better%20than%20yesterday&descAlignY=69&descSize=17)
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=🎧%20Tech%20Stack&fontSize=30&fontColor=915798&animation=scaleIn)
 <div align="center">
