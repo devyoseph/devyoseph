@@ -1,25 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Devjo&fontSize=80&fontColor=5ced73&animation=fadeIn&desc=🍄better%20than%20yesterday&descAlignY=67&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Devjo&fontSize=80&fontColor=71af45&animation=fadeIn&desc=🍄better%20than%20yesterday&descAlignY=67&descSize=17)
 
+![header](https://capsule-render.vercel.app/api?type=transparent&height=30&text=🎧%20Language&fontSize=30&fontColor=86c3de&animation=scaleIn)
 <div align="center">
-
-#### Blog 
- 
-<a href="https://blog.naver.com/josephdev123"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
-<a href="https://devyoseph.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-d95d32?style=for-the-badge&logo=Kakao&logoColor=white"/></a>  
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+</div>
 
 </br>
 
-#### Language
-  
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
+![header](https://capsule-render.vercel.app/api?type=transparent&height=50&text=🛠%20Framework&fontSize=30&fontColor=db6d9e&animation=scaleIn)
+<div align="center">
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+</div>
 
 </br>
 
-#### Toy Project
+![header](https://capsule-render.vercel.app/api?type=transparent&height=50&text=🧳%20Project&fontSize=30&fontColor=915798&animation=scaleIn)
   
+<div align="center">
 <a href="https://devyoseph.github.io/start.html"><img src="https://img.shields.io/badge/Project_01-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
-
 </div>
 
 </br>
