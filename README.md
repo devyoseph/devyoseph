@@ -1,4 +1,4 @@
-![title](./img/title.gif)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Devjo&fontSize=100&fontAlign=60&fontColor=d6ace6&&animation=fadeIn)
 
 <div align="center">
 
