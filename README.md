@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Devjo&fontSize=80&fontColor=d6ace6&&animation=fadeIn&desc=better%20than%20yesterday&descAlignY=67)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Devjo&fontSize=80&fontColor=5ced73&animation=fadeIn&desc=better%20than%20yesterday&descAlignY=67)
 
 <div align="center">
 
